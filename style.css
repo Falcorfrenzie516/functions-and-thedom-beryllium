@@ -1,0 +1,15 @@
+body {
+    background-color: palevioletred;
+}
+
+p {
+    border: 3px solid greenyellow;
+    padding: 3px;
+}
+
+.iChooseYou {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
